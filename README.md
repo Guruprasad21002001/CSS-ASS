@@ -1,6 +1,6 @@
 # CSS-ASS
 
-## PROGRAM 
+## PROGRAM: 
 # HOME :
 ## HTML:
 ```
@@ -692,3 +692,10 @@ footer {
 ```
 # OUTPUT:
 
+![op1](https://github.com/Guruprasad21002001/CSS-ASS/assets/95342910/fec69e10-0c0a-40e0-bb1c-2928847212ec)
+
+![op2](https://github.com/Guruprasad21002001/CSS-ASS/assets/95342910/e34f2247-b4c4-4651-844f-1b0b1db4fb50)
+
+![op3](https://github.com/Guruprasad21002001/CSS-ASS/assets/95342910/9bb0cd94-e108-4808-9c87-4d322b52104b)
+
+![op4](https://github.com/Guruprasad21002001/CSS-ASS/assets/95342910/ed10519b-a33b-49dc-bc67-b145e7e4d833)
