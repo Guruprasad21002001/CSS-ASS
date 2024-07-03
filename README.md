@@ -3,7 +3,7 @@
 ## PROGRAM 
 # HOME :
 ## HTML:
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,9 +40,10 @@
     </footer>
 </body>
 </html>
-'''
+```
 
-## CSS
+## CSS:
+```
 /* Reset some default browser styles */
 body, h1, ul {
   margin: 0;
@@ -150,10 +151,12 @@ footer {
   text-align: center;
   padding: 10px;
 }
+```
 
 # PRODUCT:
 
 ## HTML:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -227,8 +230,9 @@ footer {
     </footer>
 </body>
 </html>
-
+```
 ## CSS:
+```
 /* Reset some default browser styles */
 body, h1, h2, ul, p {
     margin: 0;
@@ -328,10 +332,11 @@ footer {
     text-align: center;
     padding: 10px;
 }
-
+```
 # PEOPLE:
 
 ## HTML:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -395,8 +400,9 @@ footer {
     </footer>
 </body>
 </html>
-
+```
 ## CSS:
+```
 /* Reset some default browser styles */
 body, h1, h2, ul, p {
     margin: 0;
@@ -502,10 +508,11 @@ footer {
     text-align: center;
     padding: 10px;
 }
-
+```
 # CONTACT US:
 
 ## HTML:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -553,8 +560,9 @@ footer {
     </footer>
 </body>
 </html>
-
+```
 ## CSS:
+```
 /* Reset some default browser styles */
 body, h1, h2, ul, p {
     margin: 0;
@@ -681,5 +689,6 @@ footer {
     text-align: center;
     padding: 10px;
 }
-
+```
 # OUTPUT:
+
